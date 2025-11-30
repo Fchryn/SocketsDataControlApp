@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SocketsDataControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\userfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\userfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|c:\\socketsdatacontrol\\socketsdatacontrol\\socketfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\socketfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\socketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\socketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\socketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\socketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|C:\\SocketsDataControl\\socketsdatacontrol\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}|SocketsDataControl\\SocketsDataControl.csproj|solutionrelative:socketsdatacontrol\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\MainForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\MainForm.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\MainForm.cs [Design]",
+              "RelativeToolTip": "SocketsDataControl\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:12.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\MainForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\MainForm.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\MainForm.cs",
+              "RelativeToolTip": "SocketsDataControl\\MainForm.cs",
+              "ViewState": "AgIAAPgCAAAAAAAAAADgvwgDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\LoginForm.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\LoginForm.cs",
+              "RelativeToolTip": "SocketsDataControl\\LoginForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADgv1IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserFileManager.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\UserFileManager.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\UserFileManager.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\UserFileManager.cs",
+              "RelativeToolTip": "SocketsDataControl\\UserFileManager.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswJUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:19:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketFileManager.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\SocketFileManager.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\SocketFileManager.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\SocketFileManager.cs",
+              "RelativeToolTip": "SocketsDataControl\\SocketFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:01:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\AdminForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\AdminForm.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\AdminForm.cs",
+              "RelativeToolTip": "SocketsDataControl\\AdminForm.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAADgv0oBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\AdminForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\AdminForm.cs",
+              "ToolTip": "C:\\SocketsDataControl-3\\SocketsDataControl\\AdminForm.cs [Design]",
+              "RelativeToolTip": "..\\SocketsDataControl-3\\SocketsDataControl\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\LoginForm.cs",
+              "ToolTip": "C:\\SocketsDataControl-3\\SocketsDataControl\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\SocketsDataControl-3\\SocketsDataControl\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\program.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\program.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\program.cs",
+              "RelativeToolTip": "SocketsDataControl\\program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:46:05.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\RegisterForm.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\RegisterForm.cs",
+              "RelativeToolTip": "SocketsDataControl\\RegisterForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAvwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\RegisterForm.cs",
+              "ToolTip": "C:\\SocketsDataControl-3\\SocketsDataControl\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "..\\SocketsDataControl-3\\SocketsDataControl\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:09:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SocketController.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\SocketController.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\SocketController.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\SocketController.cs",
+              "RelativeToolTip": "SocketsDataControl\\SocketController.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:40:28.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SocketModel.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\SocketModel.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\SocketModel.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\SocketModel.cs",
+              "RelativeToolTip": "SocketsDataControl\\SocketModel.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:37:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\UserController.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\UserController.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\UserController.cs",
+              "RelativeToolTip": "SocketsDataControl\\UserController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAApwKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:20:47.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\SocketsDataControl\\SocketsDataControl\\UserModel.cs",
+              "RelativeDocumentMoniker": "SocketsDataControl\\UserModel.cs",
+              "ToolTip": "C:\\SocketsDataControl\\SocketsDataControl\\UserModel.cs",
+              "RelativeToolTip": "SocketsDataControl\\UserModel.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:45:26.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

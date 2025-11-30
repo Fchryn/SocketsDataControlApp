@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketsDataControl", "SocketsDataControl\SocketsDataControl.csproj", "{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SocketsData", "SocketsData\SocketsData.vdproj", "{7320EE15-F426-F4F7-5327-351F1B3F24D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ForIC", "ForIC\ForIC.vdproj", "{0570385B-B5CC-15B7-5828-CFA986BE8289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E108A6C-4B0B-4EF3-A9D3-9B91CB20BD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7320EE15-F426-F4F7-5327-351F1B3F24D5}.Debug|Any CPU.ActiveCfg = Debug
+		{7320EE15-F426-F4F7-5327-351F1B3F24D5}.Debug|Any CPU.Build.0 = Debug
+		{7320EE15-F426-F4F7-5327-351F1B3F24D5}.Release|Any CPU.ActiveCfg = Release
+		{0570385B-B5CC-15B7-5828-CFA986BE8289}.Debug|Any CPU.ActiveCfg = Debug
+		{0570385B-B5CC-15B7-5828-CFA986BE8289}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4307BA21-670C-46CF-B032-66CC73418275}
+	EndGlobalSection
+EndGlobal
